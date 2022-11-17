@@ -1,7 +1,4 @@
-import tkinter as tk
+from tkinter import *
+from usuario import *
 
-window = tk.Tk()
-window.title("Hello wold")
-window.geometry("300x300")
-
-tk.mainloop()
+Inicio()
