@@ -96,4 +96,4 @@ def CriarConta():
   criarConta.mainloop()
 
   Menu()
-  
+principal.loop()

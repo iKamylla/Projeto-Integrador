@@ -44,4 +44,4 @@ def novatela():
     #if opcao == 3:
 
 
-      
+principal.loop()
